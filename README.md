@@ -1,0 +1,1 @@
+# Classification-of-HAR-dataset__-Kmeans-Classifier
